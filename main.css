@@ -19,11 +19,17 @@
 	position:relative;
 	color:#fff;
 	font-size:13px;
-	background-size: cover;
+	background-color:black;
+	
 }
 .contiene  div div{
 position: absolute;
 right:0px;
 bottom:0px;
 
+}
+img{
+	width: 200px;
+	height:200px;
+	opacity:0.5;
 }
